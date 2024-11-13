@@ -1,7 +1,5 @@
 import styled from "styled-components";
-
 import Pokemonball from "../assets/Pokemonball.png";
-import { usePokemonContext } from "../context/PokemonContext";
 
 const DashboardContainer = styled.div`
   display: flex;
@@ -62,9 +60,8 @@ const RemoveButton = styled.button`
   }
 `;
 
-function Dashboard() {
-  const { selectedPokemon, removePokemon } = usePokemonContext();
-  const totalSlots = 6; // 전체 슬롯 개수
+function Dashboard({ selectedPokemon, removePokemon }) {
+  const totalSlots = 6;
 
   return (
     <DashboardContainer>

@@ -1,9 +1,8 @@
+// PokemonCard.jsx
 import styled from "styled-components";
 import { Link } from "react-router-dom";
-import { usePokemonContext } from "../context/PokemonContext";
 
-function PokemonCard({ pokemon }) {
-  const { addPokemon } = usePokemonContext();
+function PokemonCard({ pokemon, addPokemon }) {
   const CardStyle = styled.div`
     border: 1px solid #ddd;
     border-radius: 8px;
@@ -19,6 +18,7 @@ function PokemonCard({ pokemon }) {
       box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.2);
     }
   `;
+
   const ButtonStyle = styled.button`
     background-color: #ff4d4d;
     color: #fff;
@@ -27,6 +27,7 @@ function PokemonCard({ pokemon }) {
     padding: 5px 10px;
     cursor: pointer;
   `;
+
   return (
     <CardStyle>
       <Link to={`/dex/${pokemon.id}`}>
