@@ -1,6 +1,6 @@
 import styled from "styled-components";
-import { usePokemonContext } from "../PokemonContext";
 import { Link } from "react-router-dom";
+import { usePokemonContext } from "../context/PokemonContext";
 
 function PokemonCard({ pokemon }) {
   const { addPokemon } = usePokemonContext();

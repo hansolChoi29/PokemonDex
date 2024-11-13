@@ -1,6 +1,7 @@
 import styled from "styled-components";
-import { usePokemonContext } from "../PokemonContext";
+
 import Pokemonball from "../assets/Pokemonball.png";
+import { usePokemonContext } from "../context/PokemonContext";
 
 const DashboardContainer = styled.div`
   display: flex;
