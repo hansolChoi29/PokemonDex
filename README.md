@@ -19,7 +19,7 @@
 
 ## PROJECT 기능
 
-1. 초기화면
+1. 초기화면에서 link로 dex창으로 넘어가게 만들었습니다
 </br>
 
 ![title](https://blog.kakaocdn.net/dn/QNiPZ/btsKHV7O14C/Kd4kfPk3cAfPwIBQ5KYHt1/img.gif)   
@@ -28,13 +28,13 @@
 
 
 
-2. 선택및중복 
+2. 포켓몬을 선택하다가 중복된 포케몬이 있으면 경고창이 뜹니다
 </br>
 
 ![title](https://blog.kakaocdn.net/dn/ZfEZX/btsKH9SdhAL/GTLQMXtKdMNzqZl9RjPls1/img.gif)   
 
 
-3. 6개알림
+3. 선택된 포켓몬이 여섯마리 초과되면 경고창이 뜹니다
 </br>
 
 
@@ -42,13 +42,13 @@
 
 
 
-4. 삭제
+4. 포켓몬을 삭제 가능하게 만들었습니다 
 </br>
 
 ![title](https://blog.kakaocdn.net/dn/biwEoM/btsKGRE6LO6/Y3O7piShRYK127NnRHesa0/img.gif)   
   
 
-5. 상세페이지
+5. 포켓몬을 클릭하면 상세페이지로 갑니다 
 
 </br>
 
