@@ -19,13 +19,16 @@
 
 1. 초기화면
 </br>
+
 ![title](https://blog.kakaocdn.net/dn/QNiPZ/btsKHV7O14C/Kd4kfPk3cAfPwIBQ5KYHt1/img.gif)   
+
 
 
 
 
 2. 선택및중복 
 </br>
+
 ![title](https://blog.kakaocdn.net/dn/ZfEZX/btsKH9SdhAL/GTLQMXtKdMNzqZl9RjPls1/img.gif)   
 
 
@@ -36,10 +39,12 @@
 ![title](https://blog.kakaocdn.net/dn/bkTibH/btsKISoIMmU/LP3TGn3u6Vkmv273kAQm01/img.gif)   
 
 
+
 4. 삭제
 </br>
 
 ![title](https://blog.kakaocdn.net/dn/biwEoM/btsKGRE6LO6/Y3O7piShRYK127NnRHesa0/img.gif)   
+  
 
 5. 상세페이지
 
@@ -48,7 +53,5 @@
 
 ![title](https://blog.kakaocdn.net/dn/cVW0KD/btsKJlqBl3C/2m5b7kn4m1fSKVtJRDJlcK/img.gif)   
 
+
 </br>
-
-
-
