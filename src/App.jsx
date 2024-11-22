@@ -8,6 +8,8 @@ import { PokemonProvider } from "./context/PokemonContext";
 function App() {
   return (
     <>
+    //////앙아ㅏㅇㅇ
+    // 아아아아아아앙
       <PokemonProvider>
         <Routes>
           <Route path="/" element={<Home />} />
@@ -16,6 +18,7 @@ function App() {
         </Routes>
       </PokemonProvider>
     </>
+    
   );
 }
 
